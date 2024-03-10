@@ -42,13 +42,13 @@ export const UserInfoPage = () => {
         // and send them to the "login page"
         alert('Log out functionality not implemented yet');
     }
-    
+
     const resetValues = () => {
         // Reset the text input values to
         // their starting values (the data we loaded from the server)
         alert('Reset functionality not implemented yet');
     }
-    
+
     // And here we have the JSX for our component. It's pretty straightforward
     return (
         <div className="content-container">
