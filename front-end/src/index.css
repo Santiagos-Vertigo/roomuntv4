@@ -41,7 +41,8 @@ button {
 
 .page-container {
     display: flex;
-    background-color: #ddd;
+    background-color: #00843D;
+
     min-height: 100vh;
     min-width: 100%;
     align-items: center;
@@ -57,7 +58,7 @@ button {
 }
 
 .success {
-    background-color: #90ee90;
+    background-color: #00843D;
     border-radius: 8px;
     margin-bottom: 8px;
     padding: 16px;
